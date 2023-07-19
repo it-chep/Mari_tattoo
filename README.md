@@ -1,3 +1,3 @@
 # Mari_tattoo
 
-FastAPI APP for tatoo master
+FastAPI APP for tattoo master
