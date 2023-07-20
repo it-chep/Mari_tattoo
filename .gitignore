@@ -1,0 +1,14 @@
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+*.env
+*.log
+*.sqlite3
+/db/
+venv/
+docstar_site/docstar/
+docstar_site/user_photos/
+pycache/
+**/__init__.py
